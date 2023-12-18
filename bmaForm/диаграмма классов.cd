@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="bmaForm.generateForm">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BJIABEAAADQRBBAAKIHUQACiQABAgQIBAAAYAgAGICA=</HashCode>
+      <FileName>generateForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="genDBForm" />
+      <Property Name="helpForm" />
+      <Property Name="LFSR" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="bmaForm.helpForm">
+    <Position X="18.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAACAAAADAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>helpForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bmaForm.lfsrDBForm">
+    <Position X="14" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAABECBIAAAACACAIAACAkCBEAAAgQAIAAAAAAA=</HashCode>
+      <FileName>lfsrDBForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="stepsForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="bmaForm.lfsrForm">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>JJICBEIAADQQFBAACAHUQAGiQAJAwQABAgAYAAAEYCE=</HashCode>
+      <FileName>lfsrForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="lfsrDBForm" />
+      <Property Name="helpForm" />
+      <Property Name="LFSR" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="bmaForm.mainForm">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABEAAAIACACAACAgAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>mainForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="generateForm" />
+      <Property Name="lfsrForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="bmaForm.stepsForm">
+    <Position X="16.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stepsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bmaLibrary.LFSR">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Feedback" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="bmaLibrary.Polynomial">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="bmaForm.genDBForm">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAACAAAAAACAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>genDBForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
