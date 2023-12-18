@@ -1,0 +1,12 @@
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\bin\Debug\net7.0\dbLibrary.deps.json
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\bin\Debug\net7.0\dbLibrary.dll
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\bin\Debug\net7.0\dbLibrary.pdb
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\obj\Debug\net7.0\dbLibrary.csproj.AssemblyReference.cache
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\obj\Debug\net7.0\dbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\obj\Debug\net7.0\dbLibrary.AssemblyInfoInputs.cache
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\obj\Debug\net7.0\dbLibrary.AssemblyInfo.cs
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\obj\Debug\net7.0\dbLibrary.csproj.CoreCompileInputs.cache
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\obj\Debug\net7.0\dbLibrary.dll
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\obj\Debug\net7.0\refint\dbLibrary.dll
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\obj\Debug\net7.0\dbLibrary.pdb
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\dbLibrary\obj\Debug\net7.0\ref\dbLibrary.dll

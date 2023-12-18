@@ -1,0 +1,3 @@
+C:\Users\goha7\Desktop\publish\bmaLibrary.dll
+C:\Users\goha7\Desktop\publish\bmaLibrary.deps.json
+C:\Users\goha7\Desktop\publish\bmaLibrary.pdb
