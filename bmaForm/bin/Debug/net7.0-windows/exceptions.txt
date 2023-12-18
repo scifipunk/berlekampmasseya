@@ -1,0 +1,18 @@
+09.12.2023 22:53:57:,
+Root element is missing.,
+System.Private.Xml,
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ThrowWithoutLineInfo(String res)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text)
+   at bmaForm.lfsrDBForm.dataGrid_CellContentClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\lfsrDBForm.cs:line 85,
+Void Throw(System.Exception)
+09.12.2023 22:56:51:,
+Unable to cast object of type 'System.Windows.Forms.DataGridViewTextBoxCell' to type 'System.IConvertible'.,
+System.Private.CoreLib,
+   at System.Convert.ToInt32(Object value)
+   at bmaForm.lfsrDBForm.dataGrid_CellContentClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\lfsrDBForm.cs:line 74,
+System.Object ChkCast_Helper(Void*, System.Object)

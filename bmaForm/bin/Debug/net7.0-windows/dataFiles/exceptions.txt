@@ -1,0 +1,38 @@
+11.12.2023 16:13:44:,
+Invalid length or feedback polynomial,
+bmaLibrary,
+   at bmaLibrary.LFSR..ctor(String state, Polynomial feedback) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaLibrary\lfsrClass.cs:line 45
+   at bmaForm.generateForm.btnGenerate_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\generateForm.cs:line 61,
+Void .ctor(System.String, bmaLibrary.Polynomial)
+12.12.2023 9:54:53:,
+Root element is missing.,
+System.Private.Xml,
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ThrowWithoutLineInfo(String res)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text)
+   at bmaForm.lfsrDBForm.dataGrid_CellContentClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\lfsrDBForm.cs:line 94,
+Void Throw(System.Exception)
+12.12.2023 12:48:49:,
+Invalid length or feedback polynomial,
+bmaLibrary,
+   at bmaLibrary.LFSR..ctor(Int32 length, Polynomial feedback, Boolean[] seq) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaLibrary\lfsrClass.cs:line 33
+   at bmaForm.lfsrForm.FindLFSR(Boolean[] sequence) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\lfsrForm.cs:line 178
+   at bmaForm.lfsrForm.btnStart_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\lfsrForm.cs:line 195,
+Void .ctor(Int32, bmaLibrary.Polynomial, Boolean[])
+12.12.2023 12:48:52:,
+Invalid length or feedback polynomial,
+bmaLibrary,
+   at bmaLibrary.LFSR..ctor(Int32 length, Polynomial feedback, Boolean[] seq) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaLibrary\lfsrClass.cs:line 33
+   at bmaForm.lfsrForm.FindLFSR(Boolean[] sequence) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\lfsrForm.cs:line 178
+   at bmaForm.lfsrForm.btnStart_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\lfsrForm.cs:line 195,
+Void .ctor(Int32, bmaLibrary.Polynomial, Boolean[])
+12.12.2023 14:15:59:,
+Index was outside the bounds of the array.,
+bmaForm,
+   at bmaForm.lfsrForm.CheckSeq(Boolean[] seq) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\lfsrForm.cs:line 201
+   at bmaForm.lfsrForm.btnStart_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\bma\bmaForm\lfsrForm.cs:line 241,
+Int32[] CheckSeq(Boolean[])

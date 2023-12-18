@@ -1,0 +1,5 @@
+Length: 13
+Feedback: x^13+x^10+x^9+x^6+x^5+x^2+x^1+1
+State: 0111101001010
+Sequence: 011110100101010011001101
+Sequence Length: 25
